@@ -11,5 +11,5 @@ This requirement will be dropped out after I'll implement a basic Linear Alegbra
 <br>
 Compile and enjoy learning! <br>
  <br>
-* This code requires lingdi as it's using WinAPI functions to paint pixels on the screen, hence you should use MSVC to <br>
- compile it and it will only run on windows. <br>
+* This code requires "wingdi" support as it's using WinAPI functions to paint pixels on the screen.<br>
+ Therefore, you should use MSVC to compile it and it will only run on windows. <br>
