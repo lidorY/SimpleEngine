@@ -1,10 +1,14 @@
-#include <array>
+#include <Windows.h>
+#include <memory>
 #include <chrono>
 #include <thread>
 #include <iostream>
 
-#include "common.h"
+#include "screen.h"
+#include "mesh.h"
 #include "rasterizer.h"
+
+
 
 using namespace std::placeholders;
 int main() {
