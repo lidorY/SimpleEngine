@@ -13,3 +13,4 @@ Compile and enjoy learning! <br>
  <br>
 * This code requires "wingdi" support as it's using WinAPI functions to paint pixels on the screen.<br>
  Therefore, you should use MSVC to compile it and it will only run on windows. <br>
+* The Code is in C++17 standart, you need to make sure that the MSVC project is configured accordingly.
