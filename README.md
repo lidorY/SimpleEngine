@@ -1,5 +1,7 @@
 # SimpleEngine
-Simple demonstrative 3D graphics engine (Runs on the CPU).
+Simple demonstrative 3D graphics rasterizer (Runs on the CPU).
+
+![ezgif-7-341777fba080](https://user-images.githubusercontent.com/15870496/114282861-2479fb80-9a4f-11eb-8c10-7a2edfecead7.gif)
 
 
 # Building
