@@ -7,7 +7,7 @@ Download Eigen math package from here: http://eigen.tuxfamily.org/index.php?titl
 !!Use version 3.3.7!! <br>
 Add its header files path (...\eigen-3.3.7\) to the MSVC project properties as an "Additional Include Directory". <br>
 (Project Properties -> C/C++ -> General -> Additional Include Directories <Eigen header file path goes here>) <br>
-This requirement will be dropped out after I'll implement a basic Linear Alegbra utility code.. <br>
+
 <br>
 Compile and enjoy learning! <br>
  <br>
